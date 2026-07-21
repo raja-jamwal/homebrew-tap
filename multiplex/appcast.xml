@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Multiplex</title>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Tue, 21 Jul 2026 09:44:23 +0530</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.5.0/Multiplex-0.5.0.dmg" length="3195723" type="application/octet-stream" sparkle:edSignature="Nj6d3PINrDS8U0nykVb6dZGJrQoQtRT8i+iw6+64uDUKtzLRmYYD/JIPQksLcik+sYh1dtPfK1FFyCcgIMEQCQ=="/>
+        </item>
+    </channel>
+</rss>
