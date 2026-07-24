@@ -3,6 +3,15 @@
     <channel>
         <title>Multiplex</title>
         <item>
+            <title>0.9.0</title>
+            <pubDate>Fri, 24 Jul 2026 22:19:48 +0530</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.9.0/Multiplex-0.9.0.dmg" length="4050254" type="application/octet-stream" sparkle:edSignature="DdwXLSr+zeQfOq7fVd4vB78TQ3qkO2q3Jeo3rdDr2QDGr6N66WSXUuu10JgEIjweuCabKyAH2Kza4fnqIqbiBw=="/>
+        </item>
+        <item>
             <title>0.8.0</title>
             <pubDate>Thu, 23 Jul 2026 22:13:42 +0530</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.7.0/Multiplex-0.7.0.dmg" length="4006442" type="application/octet-stream" sparkle:edSignature="HeEYH992fXZtzzKoBoo9LM/uD3jDzb0KwebMvDMcdQttCOhJM+qBo6mil6Qjmz6kqpPwsmYDUv9Pkx9cE/oaCg=="/>
-        </item>
-        <item>
-            <title>0.6.1</title>
-            <pubDate>Thu, 23 Jul 2026 10:20:07 +0530</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.6.1/Multiplex-0.6.1.dmg" length="4002454" type="application/octet-stream" sparkle:edSignature="Ud0XpQyHAvAprEuIxtJLFBlbfbcI588QOTcVE5OBPKxi1O+lR3Pllqf5oXWhVerQAZkReLbpNlh691sOYjCGAw=="/>
         </item>
     </channel>
 </rss>
