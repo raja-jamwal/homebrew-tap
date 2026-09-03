@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "relays": [
+    {
+      "id": "blr1",
+      "name": "Bangalore 1",
+      "addr": "143.110.250.83:443",
+      "fingerprints": [
+        "7e:43:53:7e:39:b1:ea:04:6b:22:6f:2f:09:3c:b1:40:3a:d8:93:85:f3:f1:36:26:88:13:d3:6b:1e:bb:21:17"
+      ],
+      "status": "active"
+    },
+    {
+      "id": "sfo2",
+      "name": "San Francisco 2",
+      "addr": "167.71.126.215:443",
+      "fingerprints": [
+        "e5:0d:94:0f:60:a1:74:91:ae:9d:37:2a:ba:e4:a9:95:b1:33:1b:5a:c1:58:06:13:62:ee:b8:aa:ae:af:f5:01"
+      ],
+      "status": "active"
+    }
+  ]
+}
