@@ -3,6 +3,15 @@
     <channel>
         <title>Multiplex</title>
         <item>
+            <title>0.13.0</title>
+            <pubDate>Sun, 06 Sep 2026 02:36:45 +0530</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.13.0/Multiplex-0.13.0.dmg" length="4610187" type="application/octet-stream" sparkle:edSignature="905vO/QvV0SXr2is8iQafMyUoKE5tcLNzejmS1r6pEQyfDvgPwAD61ukOk17+jJAwi05t+ONECxPbBWlmkcsDg=="/>
+        </item>
+        <item>
             <title>0.12.0</title>
             <pubDate>Thu, 03 Sep 2026 10:30:38 +0530</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.11.1/Multiplex-0.11.1.dmg" length="4141842" type="application/octet-stream" sparkle:edSignature="HoDaw1NcGop5ESNBC+qhNKQxWM8v/HomQnsXlPmWcBRofgDAxULCQB+32DVzHPp5zklp0Z5AzRjQWO+sJQNHAw=="/>
-        </item>
-        <item>
-            <title>0.11.0</title>
-            <pubDate>Wed, 19 Aug 2026 00:31:46 +0530</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.11.0/Multiplex-0.11.0.dmg" length="4108427" type="application/octet-stream" sparkle:edSignature="kQQKO4DLWYk42PGoxRh/gTKZ057FNB1U4CeuctbzSEHb0kLQp+UEE/J1f3/Uo3egrtRho7yEEb2jkWEDWglpCA=="/>
         </item>
     </channel>
 </rss>
