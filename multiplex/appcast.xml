@@ -3,6 +3,14 @@
     <channel>
         <title>Multiplex</title>
         <item>
+            <title>0.15.0</title>
+            <pubDate>Sun, 06 Sep 2026 20:49:30 +0530</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.15.0/Multiplex-0.15.0.dmg" length="7352563" type="application/octet-stream" sparkle:edSignature="ieBBnh6TNusCTbgnJ2dO6JrT2mMgSjk7m5/QBbPiIaPExUxwrQMGUmZFlaY+2MBTWtcPajWlonOjxkJqDsZ4Cg=="/>
+        </item>
+        <item>
             <title>0.14.0</title>
             <pubDate>Sun, 06 Sep 2026 17:51:42 +0530</pubDate>
             <sparkle:version>14</sparkle:version>
