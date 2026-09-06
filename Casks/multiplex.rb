@@ -1,6 +1,6 @@
 cask "multiplex" do
-  version "0.13.0"
-  sha256 "e980b791dea90cee1e0c4883b01a976980ceeb0f75c234f8d030c07f174c66c3"
+  version "0.14.0"
+  sha256 "620168f9629ee097126073090f4cd914bbe695a21fd6cfb7a602580455d2bfbe"
 
   url "https://github.com/raja-jamwal/homebrew-tap/releases/download/v#{version}/Multiplex-#{version}.dmg"
   name "Multiplex"
