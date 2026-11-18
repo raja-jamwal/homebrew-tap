@@ -3,6 +3,14 @@
     <channel>
         <title>Multiplex</title>
         <item>
+            <title>0.20.0</title>
+            <pubDate>Wed, 18 Nov 2026 08:52:37 +0530</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.20.0/Multiplex-0.20.0.dmg" length="35656408" type="application/octet-stream" sparkle:edSignature="r4sfIA9lSGj7ODRmTVljhoZ1F+R0lrwSqpbnBO8t2SZc4Yx0H4szGBUQeuPfSThrEamr2/5UIJC7sP6m7oRHAA=="/>
+        </item>
+        <item>
             <title>0.19.0</title>
             <pubDate>Wed, 04 Nov 2026 14:43:39 +0530</pubDate>
             <sparkle:version>20</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.18.0/Multiplex-0.18.0.dmg" length="7708972" type="application/octet-stream" sparkle:edSignature="jhQYOTJVLDveidyAO+quO8IyKMlO5AXJsyfE7XDh8nnBE8SDLpQlygtS4XVpHPvcdnhR1RHBN9NnRr9snVkyBQ=="/>
-        </item>
-        <item>
-            <title>0.17.1</title>
-            <pubDate>Fri, 18 Sep 2026 01:19:26 +0530</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/raja-jamwal/homebrew-tap/releases/download/v0.17.1/Multiplex-0.17.1.dmg" length="7615727" type="application/octet-stream" sparkle:edSignature="DEh4h37Eq9xjHZyoezFK4G1IvdQas9VtW4945hmvviLXWfg0kNeipu+gwPgTuZfaljtJWbgIMyQbzUZNciRsAw=="/>
         </item>
         <item>
             <title>0.14.0</title>
